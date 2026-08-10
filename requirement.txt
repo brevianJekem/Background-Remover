@@ -1,4 +1,4 @@
 streamlit
-rembg
 pillow
-onnxruntime
+onnxruntime-cpu
+rembg
